@@ -1,0 +1,3 @@
+D:/Cpp_projects/Compres_v2/cmake-build-debug/CMakeFiles/Compres_v2.dir
+D:/Cpp_projects/Compres_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Cpp_projects/Compres_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
